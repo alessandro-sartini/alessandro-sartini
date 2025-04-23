@@ -38,18 +38,20 @@ Sono un appassionato di sviluppo software con un background in ambito amministra
 ## 🎯 Progetti in Evidenza
 
 <div align="center">
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="50%" align="center" valign="top">
       <h3>📱 E-commerce di Gruppo</h3>
+      <img src="https://img.shields.io/badge/Progetto-E--commerce-orange?style=for-the-badge" alt="E-commerce Badge">
       <p><strong>Descrizione:</strong> Sviluppo di un'applicazione e-commerce completa con funzionalità avanzate.</p>
       <p><strong>Tecnologie:</strong> React (front-end), Node.js/Express.js (back-end), MySQL (database).</p>
       <p><strong>Ruolo:</strong> Sviluppo back-end, integrazione database, creazione API, middleware e supporto front-end.</p>
       <p><strong>Extra:</strong> Integrazione di un chatBot per migliorare l'interazione utente.</p>
       <p><a href="https://github.com/alessandro-sartini/scarpe_diem">📂 Repository</a></p>
     </td>
-    <td>
+    <td width="50%" align="center" valign="top">
       <h3>🎬 API TMDB</h3>
+      <img src="https://img.shields.io/badge/Progetto-API_TMDB-blue?style=for-the-badge" alt="API TMDB Badge">
       <p><strong>Descrizione:</strong> Applicazione client-side per esplorare film e serie TV usando l'API di TMDB.</p>
       <p><strong>Tecnologie:</strong> React, JavaScript, Bootstrap.</p>
       <p><a href="https://github.com/alessandro-sartini/react-boolflixaggiungi">📂 Repository</a></p>
@@ -80,8 +82,8 @@ Sono un appassionato di sviluppo software con un background in ambito amministra
 ## 📫 Contattami
 
 <div align="center">
-  <a href="mailto:ale.sartini.98@gmail.com"><img src="https://img.shields.io/badge/Email-ale.sartini.98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a><br>
-  <a href="https://github.com/alessandro-sartini"><img src="https://img.shields.io/badge/GitHub-alessandro--sartini-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a><br>
+  <a href="mailto:ale.sartini.98@gmail.com"><img src="https://img.shields.io/badge/Email-ale.sartini.98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/alessandro-sartini"><img src="https://img.shields.io/badge/GitHub-alessandro--sartini-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/alessandro-sartini-a123a6201/"><img src="https://img.shields.io/badge/LinkedIn-alessandro--sartini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
