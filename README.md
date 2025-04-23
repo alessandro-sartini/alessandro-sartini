@@ -5,10 +5,7 @@
 <h1 align="center">Ciao, sono Alessandro Sartini! 👋</h1>
 
 <div align="center">
-  Guarda quante volte è stato visitato il mio profilo:
-  <br/>
-  <br/>
-  <img src="https://profile-counter.glitch.me/alessandro-sartini/count.svg" alt="Numero di visite al profilo di Alessandro Sartini" style="vertical-align: middle;" />
+  Guarda quante volte è stato visitato il mio profilo: <img src="https://profile-counter.glitch.me/alessandro-sartini/count.svg" alt="Numero di visite al profilo di Alessandro Sartini" style="vertical-align: middle;" />
 </div>
 
 <p align="center">
@@ -24,7 +21,6 @@ Sono un appassionato di sviluppo software con un background in ambito amministra
 <div align="center">
 
 ### 💻 Linguaggi
-![Oracle](https://img.shields.io/badge/Oracle?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -87,11 +83,11 @@ Sono un appassionato di sviluppo software con un background in ambito amministra
     <td><strong>Corso Full-Stack Web Developer</strong><br><em>BOOLEAN</em> | 2024</td>
   </tr>
   <tr>
-    <td align="center">![Oracle](https://img.shields.io/badge/Oracle-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</td>
+        <td align="center"><img src="https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certification"></td>
     <td><strong>Certificazione Java Foundations 1Z0-811</strong><br><em>ORACLE UNIVERSITY</em> | Settembre 2024</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Istituto Volta-Diploma-blue?style=for-the-badge" alt="Istituto Volta"></td>
+        <td align="center"><img src="https://img.shields.io/badge/Istituto%20Volta-Diploma-blue?style=for-the-badge" alt="Istituto Volta"></td>
     <td><strong>Diploma Oracle Java Programmer (90/100)</strong><br><em>ISTITUTO VOLTA</em> | Marzo-Luglio 2024</td>
   </tr>
 </table>
