@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Mano che saluta">
   <h1>Ciao, sono Alessandro Sartini 👋</h1>
 </div>
-
+<img src="https://profile-counter.glitch.me/giuseppezaccato/count.svg" />
 ## 👨‍💻 Chi sono
 Sono un appassionato di sviluppo software con un background in ambito amministrativo e relazionale. Ho completato un corso full-stack web developer e ho conseguito la certificazione **Oracle Java Foundations**. Amo risolvere problemi, imparare velocemente e lavorare in team!
 
