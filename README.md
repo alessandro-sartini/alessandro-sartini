@@ -86,7 +86,7 @@ Sono un appassionato di sviluppo software con un background in ambito amministra
     <td><strong>Corso Full-Stack Web Developer</strong><br><em>BOOLEAN</em> | 2024</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Oracle-Certification-red?style=for-the-badge&logo=oracle" alt="Oracle"></td>
+    <td align="center">![Oracle](https://img.shields.io/badge/Oracle-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</td>
     <td><strong>Certificazione Java Foundations 1Z0-811</strong><br><em>ORACLE UNIVERSITY</em> | Settembre 2024</td>
   </tr>
   <tr>
