@@ -9,9 +9,7 @@ Sono un appassionato di sviluppo software con un background in ambito amministra
 ## 🚀 Tecnologie e Strumenti
 
 ### Linguaggi
-![Java<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java Coffee Cup">
-</p>](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
@@ -61,7 +59,7 @@ Sono un appassionato di sviluppo software con un background in ambito amministra
 ## 📊 Statistiche GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alessandro-sartini&show_icons=true&theme=radical&hide_rank=false&include_all_commits=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=alessandro-sartini&show_icons=true&theme=default" alt="GitHub Stats">
 </p>
 
 
