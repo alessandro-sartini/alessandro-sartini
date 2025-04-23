@@ -31,6 +31,8 @@ Appassionato di sviluppo software con un background in ambito amministrativo e r
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+
 ## 🎯 Progetti in Evidenza
 
 * **Progetto E-commerce di Gruppo**: Sviluppo di un'applicazione e-commerce completa.
@@ -49,8 +51,10 @@ Appassionato di sviluppo software con un background in ambito amministrativo e r
 * Certificazione Java Foundations 1Z0-811 | ORACLE UNIVERSITY | Settembre 2024
 * Diploma Oracle Java Programmer (90/100) | ISTITUTO VOLTA | Marzo-Luglio 2024
 
-## 📊 Statistiche GitHub (Opzionale)
+## 📊 Statistiche GitHub
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alessandro-Sartini&show_icons=true&theme=radical&hide_rank=false&include_all_commits=true)
+
 ## 📫 Trovami online
 
 * **Email:** [ale.sartini.98@gmail.com](mailto:ale.sartini.98@gmail.com)
