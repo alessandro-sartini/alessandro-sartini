@@ -91,6 +91,11 @@ Sono un appassionato di sviluppo software con un background in ambito amministra
   </a>
 </div>
 
+## 📊 Statistiche GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alessandro-sartini&show_icons=true&theme=default" alt="GitHub Stats">
+</p>
 ---
 
 <div align="center">
