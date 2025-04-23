@@ -4,9 +4,9 @@
 
 <h1 align="center">Ciao, sono Alessandro Sartini! 👋</h1>
 
-<p align="center">
+<div align="center">
   Guarda quante volte è stato visitato il mio profilo: <img src="https://profile-counter.glitch.me/alessandro-sartini/count.svg" alt="Numero di visite al profilo di Alessandro Sartini" />
-</p>
+</div>
 
 <p align="center">
   Mi diverto a trasformare idee in codice e a costruire cose fantastiche! ✨
