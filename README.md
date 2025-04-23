@@ -90,7 +90,7 @@ Sono un appassionato di sviluppo software con un background in ambito amministra
     <td><strong>Certificazione Java Foundations 1Z0-811</strong><br><em>ORACLE UNIVERSITY</em> | Settembre 2024</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Volta-Diploma-blue?style=for-the-badge" alt="Istituto Volta"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Istituto Volta-Diploma-blue?style=for-the-badge" alt="Istituto Volta"></td>
     <td><strong>Diploma Oracle Java Programmer (90/100)</strong><br><em>ISTITUTO VOLTA</em> | Marzo-Luglio 2024</td>
   </tr>
 </table>
