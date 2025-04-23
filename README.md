@@ -46,7 +46,8 @@ Sono un appassionato di sviluppo software con un background in ambito amministra
       <p><strong>Descrizione:</strong> Sviluppo di un'applicazione e-commerce completa con funzionalità avanzate.</p>
       <p><strong>Tecnologie:</strong> React (front-end), Node.js/Express.js (back-end), MySQL (database).</p>
       <p><strong>Ruolo:</strong> Sviluppo back-end, integrazione database, creazione API, middleware e supporto front-end.</p>
-      <p><strong>Extra:</strong> Integrazione di un chatBot per migliorare l'interazione utente.</p>
+      <p><strong>Extra: Progettazione e implementazione personale di un chatBot con backend dedicato e connessione al database,       sviluppato interamente da me per migliorare l'esperienza utente dell'applicazione.
+      </p>
       <p><a href="https://github.com/alessandro-sartini/scarpe_diem">📂 Repository</a></p>
     </td>
     <td width="50%" align="center" valign="top">
