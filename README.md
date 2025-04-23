@@ -6,7 +6,7 @@
 
 <div align="center">
   Guarda quante volte è stato visitato il mio profilo:
-  
+  <br/>
   <img src="https://profile-counter.glitch.me/alessandro-sartini/count.svg" alt="Numero di visite al profilo di Alessandro Sartini" style="vertical-align: middle;" />
 </div>
 
