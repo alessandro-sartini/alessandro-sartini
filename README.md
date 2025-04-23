@@ -50,7 +50,7 @@ Appassionato di sviluppo software con un background in ambito amministrativo e r
 * Diploma Oracle Java Programmer (90/100) | ISTITUTO VOLTA | Marzo-Luglio 2024
 
 ## 📊 Statistiche GitHub (Opzionale)
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alessandro-Sartini&show_icons=true&theme=radical&hide_rank=false&include_all_commits=true)
 ## 📫 Trovami online
 
 * **Email:** [ale.sartini.98@gmail.com](mailto:ale.sartini.98@gmail.com)
