@@ -1,18 +1,16 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Mano che saluta">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Mano che saluta">
 </p>
 
 <h1 align="center">Ciao, sono Alessandro Sartini! 👋</h1>
 
 <div align="center">
-  Guarda quante volte è stato visitato il mio profilo:
-  <br/>
-  <br/>
-  <img src="https://profile-counter.glitch.me/alessandro-sartini/count.svg" alt="Numero di visite al profilo di Alessandro Sartini" style="vertical-align: middle;" />
+  Guarda quante volte è stato visitato il mio profilo:
+  <br/>
+  <br/>   <img src="https://profile-counter.glitch.me/alessandro-sartini/count.svg" alt="Numero di visite al profilo di Alessandro Sartini" style="vertical-align: middle;" />
 </div>
-<br/>
-<p align="center">
-  Mi diverto a trasformare idee in codice e a costruire cose fantastiche! ✨
+<br/> <p align="center">
+  Mi diverto a trasformare idee in codice e a costruire cose fantastiche! ✨
 </p>
 
 ## 👨‍💻 Chi sono
@@ -86,11 +84,11 @@ Sono un appassionato di sviluppo software con un background in ambito amministra
     <td><strong>Corso Full-Stack Web Developer</strong><br><em>BOOLEAN</em> | 2024</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Oracle-Certification-red?style=for-the-badge&logo=oracle" alt="Oracle"></td>
+        <td align="center"><img src="https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certification"></td>
     <td><strong>Certificazione Java Foundations 1Z0-811</strong><br><em>ORACLE UNIVERSITY</em> | Settembre 2024</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Volta-Diploma-blue?style=for-the-badge" alt="Volta"></td>
+        <td align="center"><img src="https://img.shields.io/badge/Istituto%20Volta-Diploma-blue?style=for-the-badge" alt="Istituto Volta"></td>
     <td><strong>Diploma Oracle Java Programmer (90/100)</strong><br><em>ISTITUTO VOLTA</em> | Marzo-Luglio 2024</td>
   </tr>
 </table>
@@ -105,9 +103,9 @@ Sono un appassionato di sviluppo software con un background in ambito amministra
 ## 📫 Contattami
 
 <div align="center">
-  <a href="mailto:ale.sartini.98+ghub@gmail.com"><img src="https://img.shields.io/badge/Email-ale.sartini.98+ghub@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/alessandro-sartini"><img src="https://img.shields.io/badge/GitHub-alessandro--sartini-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/alessandro-sartini-a123a6201/"><img src="https://img.shields.io/badge/LinkedIn-alessandro--sartini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ale.sartini.98+ghub@gmail.com"><img src="https://img.shields.io/badge/Email-Contattami!-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/alessandro-sartini"><img src="https://img.shields.io/badge/GitHub-Profilo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"></a>
+  <a href="https://www.linkedin.com/in/alessandro-sartini-a123a6201/"><img src="https://img.shields.io/badge/LinkedIn-Profilo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>
 </div>
 
 ---
