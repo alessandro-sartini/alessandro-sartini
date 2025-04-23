@@ -54,7 +54,7 @@ Sono un appassionato di sviluppo software con un background in ambito amministra
       <img src="https://img.shields.io/badge/Progetto-API_TMDB-blue?style=for-the-badge" alt="API TMDB Badge">
       <p><strong>Descrizione:</strong> Applicazione client-side per esplorare film e serie TV usando l'API di TMDB.</p>
       <p><strong>Tecnologie:</strong> React, JavaScript, Bootstrap.</p>
-      <p><a href="https://github.com/alessandro-sartini/react-boolflixaggiungi">📂 Repository</a></p>
+      <p><a href="https://github.com/alessandro-sartini/react-boolflix">📂 Repository</a></p>
     </td>
   </tr>
 </table>
